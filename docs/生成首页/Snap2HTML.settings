@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <chkHidden>False</chkHidden>
+  <chkSystem>False</chkSystem>
+  <DAN-PC>
+    <WindowLeft>660</WindowLeft>
+    <WindowTop>312</WindowTop>
+  </DAN-PC>
+  <txtLinkRoot>https://dev.tencent.com/u/adboys/p/baidage/git/raw/cloud/%23MyCloud/</txtLinkRoot>
+  <chkLinkFiles>True</chkLinkFiles>
+  <chkOpenOutput>False</chkOpenOutput>
+  <txtRoot>C:\App\#MyCloud</txtRoot>
+  <DESKTOP-BAIXF>
+    <WindowLeft>460</WindowLeft>
+    <WindowTop>153</WindowTop>
+  </DESKTOP-BAIXF>
+</Settings>
