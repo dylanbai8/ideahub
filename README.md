@@ -1,1 +1,3 @@
-# ideahub 电子书共享
+# ideahub 精品电子书
+
+https://dylanbai8.github.io/ideahub
